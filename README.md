@@ -23,5 +23,5 @@ I'm particularly interested in using data to understand real-world problems and 
 - Microsoft Excel
 
 ### Contact
-- [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mert-can-yal%C3%A7in-4928aa202/))
+- [LinkedIn](https://www.linkedin.com/in/mert-can-yal%C3%A7in-4928aa202/)
 
