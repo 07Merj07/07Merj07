@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mert Can 👋
 
-<!--
-**07Merj07/07Merj07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Management Information Systems student at **Istinye University** interested in data analytics, artificial intelligence, and technology-driven business solutions.
 
-Here are some ideas to get you started:
+I'm particularly interested in using data to understand real-world problems and support better decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Data Analytics & Business Intelligence
+- Artificial Intelligence
+- Healthcare Analytics
+- Data-Driven Decision Making
+
+### Experience
+- **MLP Care:** Healthcare data analysis and reporting.
+- **Chat4Spec:** AI workflows, prompt engineering, and product development.
+- **Erasmus+:** University of Hradec Králové, Czech Republic.
+
+### Technologies
+- Python
+- SQL
+- Pandas & NumPy
+- Matplotlib & Seaborn
+- Microsoft Excel
+
+### Contact
+- [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mert-can-yal%C3%A7in-4928aa202/))
+
